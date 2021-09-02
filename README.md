@@ -6,7 +6,7 @@
 
 ### Installation/Update
 
-	- git clone https://github.com/satyakami/grub2-minimalistic.git
+	- git clone https://github.com/Bishwas-Sagar/grub2-minimalistic.git
 	- cd grub2-minimalistic
 	- chmod 755 install.sh
 	- sudo ./install.sh
